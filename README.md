@@ -2,7 +2,7 @@
 ATA (AntiThreatActor)
 
 ## Description
-A repoistory to list classify all JARM hashes from any phishing/malware campaigns I come by, so it can be easier to identify the threat actor / campaign. Also includes some metadata / key information about the campaign and features that the campaign follows.
+A repository to list classify all JARM hashes from any phishing/malware campaigns I come by, so it can be easier to identify the threat actor / campaign. Also includes some metadata / key information about the campaign and features that the campaign follows.
 
 
 ## Folder Structure
