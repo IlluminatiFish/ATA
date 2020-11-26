@@ -1,4 +1,4 @@
-## Main Information
+## Main Information (IOS, Indicators Of Spam)
 
 The key information about this campaign is the following;
 
