@@ -1,5 +1,13 @@
 ## Main Information (IOS, Indicators Of Spam)
 
+The key information about this campaign is the following;
+
+- Source email usually begins with the word 'newsletter'
+- Return path being 'bounce@gggfggf.com' or 'newsletter@onmicrosoft.com'
+- Message ID being from the domain 'affpartners.com'
+- All email domains are registered by Namecheap
+- Usually using storage.googleapis.com to host the URLs which redirect to a variety of things
+
 The following is a list of the IPs relaying this spam/phishing;
 
 Source IP | ASN | ISP | Organization | Country
